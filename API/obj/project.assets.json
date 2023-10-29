@@ -2161,23 +2161,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shahid M Zubair\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\134914\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Workspace\\Repositories\\GuessWho\\API\\API.csproj",
+      "projectUniqueName": "D:\\Workspace\\Repository\\GuessWho\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "G:\\Workspace\\Repositories\\GuessWho\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Shahid M Zubair\\.nuget\\packages\\",
-      "outputPath": "G:\\Workspace\\Repositories\\GuessWho\\API\\obj\\",
+      "projectPath": "D:\\Workspace\\Repository\\GuessWho\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\134914\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\Repository\\GuessWho\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shahid M Zubair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\134914\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
